@@ -6,6 +6,18 @@
 [![Kotlin](https://img.shields.io/badge/Kotlin-2.0.21-7F52FF?logo=kotlin&logoColor=white)](https://kotlinlang.org)
 [![Compose](https://img.shields.io/badge/Jetpack%20Compose-BOM%202024.12.01-4285F4?logo=jetpackcompose&logoColor=white)](https://developer.android.com/jetpack/compose)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Download APK](https://img.shields.io/badge/Download-APK%20(v1.0.0)-success?logo=android&logoColor=white)](https://github.com/Shahbaz-ali22/PocketShark/releases/download/v1.0.0/app-debug.apk)
+
+---
+
+## 📥 Download APK
+
+Get the latest pre-built APK directly from GitHub Releases:
+
+* **Direct Download:** [**app-debug.apk (v1.0.0)**](https://github.com/Shahbaz-ali22/PocketShark/releases/download/v1.0.0/app-debug.apk) *(~16.7 MB)*
+* **Release Page:** [PocketShark v1.0.0 Release](https://github.com/Shahbaz-ali22/PocketShark/releases/tag/v1.0.0)
+
+> **Compatibility:** Requires Android 8.0 (API level 26) or higher. No root access required.
 
 ---
 

@@ -219,7 +219,7 @@ Pocketshark/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/PocketShark.git
+   git clone https://github.com/Shahbaz-ali22/PocketShark.git
    cd PocketShark
    ```
 
@@ -275,4 +275,4 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 ## Author
 
 **Shahbaz Ali**  
-GitHub: [@shahbaz19370](https://github.com/shahbaz19370)
+GitHub: [@Shahbaz-ali22](https://github.com/Shahbaz-ali22)

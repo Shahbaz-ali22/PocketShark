@@ -16,6 +16,8 @@ gen/
 out/
 build/
 app/build/
+.cxx/
+.externalNativeBuild/
 
 # Gradle files
 .gradle/
@@ -33,6 +35,7 @@ build/
 .idea/assetWizardSettings.xml
 .idea/dictionaries
 .idea/libraries
+.navigation/
 
 # Kotlin
 .kotlin/
@@ -40,6 +43,13 @@ build/
 
 # Local configuration file (sdk path, secrets, etc.)
 local.properties
+
+# Signing credentials / Keystores
+*.jks
+*.keystore
+
+# Capture files / Profiling
+captures/
 
 # OS generated files
 .DS_Store
